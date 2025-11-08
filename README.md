@@ -199,19 +199,31 @@ flag998877
 **Flag retrieved:** `flag0098877` (Challenge Question 2 Answer)
 
 📸 Screenshots
-* [Initial nmap reconnaissance discovering SLMail vulnerability](Screenshots/Screenshot_2025-11-08_001632.png)
-* [Metasploit exploit selection and configuration](Screenshots/Screenshot_2025-11-08_001723.png)
-* [Successful meterpreter session establishment](Screenshots/Screenshot_2025-11-08_001740.png)
-* [System enumeration revealing mailbox files](Screenshots/Screenshot_2025-11-08_002009.png)
-* [Mailbox download and email intelligence extraction](Screenshots/Screenshot_2025-11-08_002032.png)
-* [Base64-encoded SSH key attachment discovery](Screenshots/Screenshot_2025-11-08_002101.png)
-* [Email conversation revealing DEV network IP address](Screenshots/Screenshot_2025-11-08_002127.png)
-* [Base64 decoding and SSH key extraction](Screenshots/Screenshot_2025-11-08_002215.png)
-* [SSH key archive extraction](Screenshots/Screenshot_2025-11-08_002241.png)
-* [Network pivoting and port forwarding setup](Screenshots/Screenshot_2025-11-08_002352.png)
-* [DEV network SSH connection and flag retrieval](Screenshots/Screenshot_2025-11-08_002306.png)
-* [DNS enumeration revealing DEV1.fakecorp.com (10.10.70.19)](Screenshots/Screenshot_2025-11-08_005300.png)
-* [Email conversation trail confirming SSH setup and FQDN](Screenshots/Screenshot_2025-11-08_005322.png)
+* [Initial nmap reconnaissance discovering SLMail vulnerability]<img width="928" height="372" alt="Screenshot 2025-11-08 001632" src="https://github.com/user-attachments/assets/b79ba023-a119-41ff-932d-b08058716c78" />
+* [Metasploit exploit selection and configuration]<img width="1014" height="199" alt="Screenshot 2025-11-08 001723" src="https://github.com/user-attachments/assets/9f51cf35-f2fb-455f-b35e-a6fe77dbbb5f" />
+
+* [Successful meterpreter session establishment]<img width="1020" height="554" alt="Screenshot 2025-11-08 001740" src="https://github.com/user-attachments/assets/c7d0a617-9e13-4a26-baba-85a246c615d4" />
+
+* [System enumeration revealing mailbox files]<img width="721" height="581" alt="Screenshot 2025-11-08 002009" src="https://github.com/user-attachments/assets/633071b0-b0c8-470a-ac79-f6d54abe800d" />
+
+* [Mailbox download and email intelligence extraction]<img width="805" height="561" alt="Screenshot 2025-11-08 002032" src="https://github.com/user-attachments/assets/32b5e9ef-9286-41b6-abca-fdddf9b99b31" />
+
+* [Base64-encoded SSH key attachment discovery]<img width="1016" height="619" alt="Screenshot 2025-11-08 002101" src="https://github.com/user-attachments/assets/96595a5d-12ce-4fad-be0f-73ace0c5489a" />
+
+* [Email conversation revealing DEV network IP address]<img width="1020" height="632" alt="Screenshot 2025-11-08 002127" src="https://github.com/user-attachments/assets/e3455573-cd1d-443b-92f0-6ffa91deb83e" />
+
+* [Base64 decoding file]<img width="1002" height="32" alt="Screenshot 2025-11-08 002215" src="https://github.com/user-attachments/assets/a4f005ce-0d39-477a-8ca2-16288a26ea6c" />
+
+* [SSH key archive extraction]<img width="1006" height="125" alt="Screenshot 2025-11-08 002241" src="https://github.com/user-attachments/assets/27797a0c-0bef-4507-8213-21f5b2fdf26d" />
+
+* [Network pivoting and port forwarding setup]<img width="1007" height="128" alt="Screenshot 2025-11-08 002306" src="https://github.com/user-attachments/assets/c27b3f94-4e49-416e-a441-c2f71df160c5" />
+
+* [DEV network SSH connection and flag retrieval]<img width="1005" height="465" alt="Screenshot 2025-11-08 002352" src="https://github.com/user-attachments/assets/c3fea906-f450-4c53-9ac3-91d4b6ea396e" />
+
+* [DNS enumeration revealing DEV1.fakecorp.com (10.10.70.19)]<img width="1003" height="136" alt="Screenshot 2025-11-08 005300" src="https://github.com/user-attachments/assets/9fb50d21-408c-4a5c-afd5-3889ca501ad0" />
+
+* [Email conversation trail confirming SSH setup and FQDN]<img width="1001" height="305" alt="Screenshot 2025-11-08 005322" src="https://github.com/user-attachments/assets/c94e4966-dbf7-45bb-b5cd-3d0f5983bf30" />
+
 
 ## 🔧 Troubleshooting & Lessons Learned
 
